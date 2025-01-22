@@ -1,0 +1,42 @@
+{
+    "python": {
+        "name": "Python",
+        "image": "code-executor-python"
+    },
+    "c": {
+        "name": "C",
+        "image": "code-executor-c"
+    },
+    "cpp": {
+        "name": "C++",
+        "image": "code-executor-cpp"
+    },
+    "java": {
+        "name": "Java",
+        "image": "code-executor-java"
+    },
+    "javascript": {
+        "name": "JavaScript",
+        "image": "code-executor-javascript"
+    },
+    "ruby": {
+        "name": "Ruby",
+        "image": "code-executor-ruby"
+    },
+    "php": {
+        "name": "PHP",
+        "image": "code-executor-php"
+    },
+    "perl": {
+        "name": "Perl",
+        "image": "code-executor-perl"
+    },
+    "go": {
+        "name": "Go",
+        "image": "code-executor-go"
+    },
+    "rust": {
+        "name": "Rust",
+        "image": "code-executor-rust"
+    }
+}
